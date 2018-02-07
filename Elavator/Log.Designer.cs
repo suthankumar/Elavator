@@ -21,7 +21,7 @@ namespace Elavator
         {
             if (disposing && (components != null))
             {
-                components.Dispose(); //jilu
+                components.Dispose(); 
             }
             base.Dispose(disposing);
         }
